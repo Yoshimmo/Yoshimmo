@@ -1,6 +1,6 @@
 - Hi, I’m @Yoshimmo
 - I’m interested in making life easier with the aid of modern IT tools.
-- I’m currently learning AppsScript, Python, etc. Different languages which can be useful for practical use.
+- I’m currently learning AppsScript, Python, etc. Different languages which can be useful for practical usage.
 - 📫 How to reach me via yoshimmo@gmail.com or @yoshimmo in telegram.
 
 <!---
